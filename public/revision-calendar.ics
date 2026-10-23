@@ -1,0 +1,786 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ESI Revision Calendar//revision schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ESI — Révisions 2CP Groupe 3
+REFRESH-INTERVAL:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:Africa/Algiers
+BEGIN:VEVENT
+SUMMARY:POO — Exercices chronométrés
+DTSTART;TZID=Africa/Algiers:20261023T190000
+DTEND;TZID=Africa/Algiers:20261023T203000
+DTSTAMP:20261023T163456Z
+UID:poo-2026-10-23-timed-exercises@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,POO
+DESCRIPTION:Module: POO\nObjectif: Practise under test conditions.\nTâche
+ s suggérées: Solve a representative timed exercise without notes\, then 
+ mark uncertain steps.\nCritère de fin: One complete timed solution and a 
+ list of errors to correct.\n\nCette séance a été placée dans un interv
+ alle libre du calendrier ESI\; les événements universitaires ne sont pas
+  copiés dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELECF — Révision du cours
+DTSTART;TZID=Africa/Algiers:20261023T204500
+DTEND;TZID=Africa/Algiers:20261023T220000
+DTSTAMP:20261023T163456Z
+UID:elecf-2026-10-23-course-and-formulas@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,ELECF
+DESCRIPTION:Module: ELECF\nObjectif: Understand definitions and formulas.
+ \nTâches suggérées: Review one section\, derive the key formulas\, and 
+ do two applications.\nCritère de fin: A short formula sheet plus two chec
+ ked applications.\n\nCette séance a été placée dans un intervalle libr
+ e du calendrier ESI\; les événements universitaires ne sont pas copiés 
+ dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:POO — Correction ciblée
+DTSTART;TZID=Africa/Algiers:20261024T163000
+DTEND;TZID=Africa/Algiers:20261024T173000
+DTSTAMP:20261023T163456Z
+UID:poo-2026-10-24-correction@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,POO
+DESCRIPTION:Module: POO\nObjectif: Turn mistakes into reusable rules.\nTâ
+ ches suggérées: Correct the timed/past-paper attempt and write a compact
+  error log.\nCritère de fin: Each error has a cause\, corrected method\, 
+ and one follow-up question.\n\nCette séance a été placée dans un inter
+ valle libre du calendrier ESI\; les événements universitaires ne sont pa
+ s copiés dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:POO — Examen blanc
+DTSTART;TZID=Africa/Algiers:20261025T151000
+DTEND;TZID=Africa/Algiers:20261025T164000
+DTSTAMP:20261023T163456Z
+UID:poo-2026-10-25-past-exams@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,POO
+DESCRIPTION:Module: POO\nObjectif: Practise a past exam or exam-style set.
+ \nTâches suggérées: Complete the hardest available past-paper questions
+ \; keep the phone and notes away.\nCritère de fin: A full attempt with ev
+ ery unanswered item flagged.\n\nCette séance a été placée dans un inte
+ rvalle libre du calendrier ESI\; les événements universitaires ne sont p
+ as copiés dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algèbre — Exercices
+DTSTART;TZID=Africa/Algiers:20261025T193000
+DTEND;TZID=Africa/Algiers:20261025T204500
+DTSTAMP:20261023T163456Z
+UID:algebre-2026-10-25-exercises@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,Algèbre
+DESCRIPTION:Module: Algèbre\nObjectif: Practise problem-solving.\nTâches
+  suggérées: Solve representative exercises and correct mistakes\; keep t
+ heory review short.\nCritère de fin: Three exercises corrected and one re
+ curring mistake noted.\n\nCette séance a été placée dans un intervalle
+  libre du calendrier ESI\; les événements universitaires ne sont pas cop
+ iés dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:POO — Points faibles
+DTSTART;TZID=Africa/Algiers:20261026T151000
+DTEND;TZID=Africa/Algiers:20261026T162500
+DTSTAMP:20261023T163456Z
+UID:poo-2026-10-26-weak-topics@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,POO
+DESCRIPTION:Module: POO\nObjectif: Repair the weakest POO topics.\nTâches
+  suggérées: Re-solve only the questions linked to the error log\; explai
+ n each solution aloud.\nCritère de fin: At least three weak-topic questio
+ ns solved without notes.\n\nCette séance a été placée dans un interval
+ le libre du calendrier ESI\; les événements universitaires ne sont pas c
+ opiés dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:POO — Rappel final
+DTSTART;TZID=Africa/Algiers:20261026T164000
+DTEND;TZID=Africa/Algiers:20261026T172500
+DTSTAMP:20261023T163456Z
+UID:poo-2026-10-26-final-recall@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,POO
+DESCRIPTION:Module: POO\nObjectif: Consolidate before the test.\nTâches s
+ uggérées: Review the error log\, definitions\, and common traps\; do not
+  start a new chapter.\nCritère de fin: A one-page checklist and no unreso
+ lved high-risk error.\n\nCette séance a été placée dans un intervalle 
+ libre du calendrier ESI\; les événements universitaires ne sont pas copi
+ és dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRST — Exercices
+DTSTART;TZID=Africa/Algiers:20261026T190000
+DTEND;TZID=Africa/Algiers:20261026T201500
+DTSTAMP:20261023T163456Z
+UID:prst-2026-10-26-exercises@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,PRST
+DESCRIPTION:Module: PRST\nObjectif: Maintain the probability/statistics ro
+ tation.\nTâches suggérées: Work a representative exercise set and recor
+ d formulas that were actually needed.\nCritère de fin: Two exercises solv
+ ed and a compact list of uncertainties.\n\nCette séance a été placée d
+ ans un intervalle libre du calendrier ESI\; les événements universitaire
+ s ne sont pas copiés dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Analyse — Rappel espacé
+DTSTART;TZID=Africa/Algiers:20261028T083000
+DTEND;TZID=Africa/Algiers:20261028T093000
+DTSTAMP:20261023T163456Z
+UID:analyse-2026-10-28-spaced-recall@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,Analyse
+DESCRIPTION:Module: Analyse\nObjectif: Keep familiar material active.\nTâ
+ ches suggérées: Recall key methods from memory\, then complete one repre
+ sentative exercise.\nCritère de fin: One exercise corrected and the recal
+ l score recorded.\n\nCette séance a été placée dans un intervalle libr
+ e du calendrier ESI\; les événements universitaires ne sont pas copiés 
+ dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SFSD — Rappel espacé
+DTSTART;TZID=Africa/Algiers:20261029T190000
+DTEND;TZID=Africa/Algiers:20261029T200000
+DTSTAMP:20261023T163456Z
+UID:sfsd-2026-10-29-spaced-recall@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,SFSD
+DESCRIPTION:Module: SFSD\nObjectif: Keep familiar material active.\nTâche
+ s suggérées: Recall the main data-structure/file concepts and solve one 
+ representative exercise.\nCritère de fin: One exercise corrected and one 
+ misconception logged.\n\nCette séance a été placée dans un intervalle 
+ libre du calendrier ESI\; les événements universitaires ne sont pas copi
+ és dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Archi — Exercice représentatif
+DTSTART;TZID=Africa/Algiers:20261030T083000
+DTEND;TZID=Africa/Algiers:20261030T093000
+DTSTAMP:20261023T163456Z
+UID:archi-2026-10-30-representative-exercise@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,Archi
+DESCRIPTION:Module: Archi\nObjectif: Maintain core architecture fluency.\n
+ Tâches suggérées: Review the method from memory\, then solve one repres
+ entative exercise.\nCritère de fin: One complete exercise corrected.\n\nC
+ ette séance a été placée dans un intervalle libre du calendrier ESI\; 
+ les événements universitaires ne sont pas copiés dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELECF — Révision du cours
+DTSTART;TZID=Africa/Algiers:20261031T163000
+DTEND;TZID=Africa/Algiers:20261031T174500
+DTSTAMP:20261023T163456Z
+UID:elecf-2026-10-31-course-and-formulas@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,ELECF
+DESCRIPTION:Module: ELECF\nObjectif: Understand definitions and formulas.
+ \nTâches suggérées: Review one section\, derive the key formulas\, and 
+ do two applications.\nCritère de fin: A short formula sheet plus two chec
+ ked applications.\n\nCette séance a été placée dans un intervalle libr
+ e du calendrier ESI\; les événements universitaires ne sont pas copiés 
+ dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algèbre — Exercices
+DTSTART;TZID=Africa/Algiers:20261101T151000
+DTEND;TZID=Africa/Algiers:20261101T162500
+DTSTAMP:20261023T163456Z
+UID:algebre-2026-11-01-exercises@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,Algèbre
+DESCRIPTION:Module: Algèbre\nObjectif: Practise problem-solving.\nTâches
+  suggérées: Solve representative exercises and correct mistakes\; keep t
+ heory review short.\nCritère de fin: Three exercises corrected and one re
+ curring mistake noted.\n\nCette séance a été placée dans un intervalle
+  libre du calendrier ESI\; les événements universitaires ne sont pas cop
+ iés dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRST — Exercices
+DTSTART;TZID=Africa/Algiers:20261102T151000
+DTEND;TZID=Africa/Algiers:20261102T162500
+DTSTAMP:20261023T163456Z
+UID:prst-2026-11-02-exercises@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,PRST
+DESCRIPTION:Module: PRST\nObjectif: Maintain the probability/statistics ro
+ tation.\nTâches suggérées: Work a representative exercise set and recor
+ d formulas that were actually needed.\nCritère de fin: Two exercises solv
+ ed and a compact list of uncertainties.\n\nCette séance a été placée d
+ ans un intervalle libre du calendrier ESI\; les événements universitaire
+ s ne sont pas copiés dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Analyse — Rappel espacé
+DTSTART;TZID=Africa/Algiers:20261103T140000
+DTEND;TZID=Africa/Algiers:20261103T150000
+DTSTAMP:20261023T163456Z
+UID:analyse-2026-11-03-spaced-recall@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,Analyse
+DESCRIPTION:Module: Analyse\nObjectif: Keep familiar material active.\nTâ
+ ches suggérées: Recall key methods from memory\, then complete one repre
+ sentative exercise.\nCritère de fin: One exercise corrected and the recal
+ l score recorded.\n\nCette séance a été placée dans un intervalle libr
+ e du calendrier ESI\; les événements universitaires ne sont pas copiés 
+ dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SFSD — Rappel espacé
+DTSTART;TZID=Africa/Algiers:20261104T083000
+DTEND;TZID=Africa/Algiers:20261104T093000
+DTSTAMP:20261023T163456Z
+UID:sfsd-2026-11-04-spaced-recall@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,SFSD
+DESCRIPTION:Module: SFSD\nObjectif: Keep familiar material active.\nTâche
+ s suggérées: Recall the main data-structure/file concepts and solve one 
+ representative exercise.\nCritère de fin: One exercise corrected and one 
+ misconception logged.\n\nCette séance a été placée dans un intervalle 
+ libre du calendrier ESI\; les événements universitaires ne sont pas copi
+ és dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Archi — Exercice représentatif
+DTSTART;TZID=Africa/Algiers:20261105T190000
+DTEND;TZID=Africa/Algiers:20261105T200000
+DTSTAMP:20261023T163456Z
+UID:archi-2026-11-05-representative-exercise@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,Archi
+DESCRIPTION:Module: Archi\nObjectif: Maintain core architecture fluency.\n
+ Tâches suggérées: Review the method from memory\, then solve one repres
+ entative exercise.\nCritère de fin: One complete exercise corrected.\n\nC
+ ette séance a été placée dans un intervalle libre du calendrier ESI\; 
+ les événements universitaires ne sont pas copiés dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELECF — Révision du cours
+DTSTART;TZID=Africa/Algiers:20261106T083000
+DTEND;TZID=Africa/Algiers:20261106T094500
+DTSTAMP:20261023T163456Z
+UID:elecf-2026-11-06-course-and-formulas@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,ELECF
+DESCRIPTION:Module: ELECF\nObjectif: Understand definitions and formulas.
+ \nTâches suggérées: Review one section\, derive the key formulas\, and 
+ do two applications.\nCritère de fin: A short formula sheet plus two chec
+ ked applications.\n\nCette séance a été placée dans un intervalle libr
+ e du calendrier ESI\; les événements universitaires ne sont pas copiés 
+ dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algèbre — Exercices
+DTSTART;TZID=Africa/Algiers:20261107T163000
+DTEND;TZID=Africa/Algiers:20261107T174500
+DTSTAMP:20261023T163456Z
+UID:algebre-2026-11-07-exercises@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,Algèbre
+DESCRIPTION:Module: Algèbre\nObjectif: Practise problem-solving.\nTâches
+  suggérées: Solve representative exercises and correct mistakes\; keep t
+ heory review short.\nCritère de fin: Three exercises corrected and one re
+ curring mistake noted.\n\nCette séance a été placée dans un intervalle
+  libre du calendrier ESI\; les événements universitaires ne sont pas cop
+ iés dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRST — Exercices
+DTSTART;TZID=Africa/Algiers:20261108T151000
+DTEND;TZID=Africa/Algiers:20261108T162500
+DTSTAMP:20261023T163456Z
+UID:prst-2026-11-08-exercises@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,PRST
+DESCRIPTION:Module: PRST\nObjectif: Maintain the probability/statistics ro
+ tation.\nTâches suggérées: Work a representative exercise set and recor
+ d formulas that were actually needed.\nCritère de fin: Two exercises solv
+ ed and a compact list of uncertainties.\n\nCette séance a été placée d
+ ans un intervalle libre du calendrier ESI\; les événements universitaire
+ s ne sont pas copiés dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Analyse — Rappel espacé
+DTSTART;TZID=Africa/Algiers:20261109T151000
+DTEND;TZID=Africa/Algiers:20261109T161000
+DTSTAMP:20261023T163456Z
+UID:analyse-2026-11-09-spaced-recall@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,Analyse
+DESCRIPTION:Module: Analyse\nObjectif: Keep familiar material active.\nTâ
+ ches suggérées: Recall key methods from memory\, then complete one repre
+ sentative exercise.\nCritère de fin: One exercise corrected and the recal
+ l score recorded.\n\nCette séance a été placée dans un intervalle libr
+ e du calendrier ESI\; les événements universitaires ne sont pas copiés 
+ dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SFSD — Rappel espacé
+DTSTART;TZID=Africa/Algiers:20261110T140000
+DTEND;TZID=Africa/Algiers:20261110T150000
+DTSTAMP:20261023T163456Z
+UID:sfsd-2026-11-10-spaced-recall@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,SFSD
+DESCRIPTION:Module: SFSD\nObjectif: Keep familiar material active.\nTâche
+ s suggérées: Recall the main data-structure/file concepts and solve one 
+ representative exercise.\nCritère de fin: One exercise corrected and one 
+ misconception logged.\n\nCette séance a été placée dans un intervalle 
+ libre du calendrier ESI\; les événements universitaires ne sont pas copi
+ és dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Archi — Exercice représentatif
+DTSTART;TZID=Africa/Algiers:20261111T083000
+DTEND;TZID=Africa/Algiers:20261111T093000
+DTSTAMP:20261023T163456Z
+UID:archi-2026-11-11-representative-exercise@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,Archi
+DESCRIPTION:Module: Archi\nObjectif: Maintain core architecture fluency.\n
+ Tâches suggérées: Review the method from memory\, then solve one repres
+ entative exercise.\nCritère de fin: One complete exercise corrected.\n\nC
+ ette séance a été placée dans un intervalle libre du calendrier ESI\; 
+ les événements universitaires ne sont pas copiés dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELECF — Révision du cours
+DTSTART;TZID=Africa/Algiers:20261112T190000
+DTEND;TZID=Africa/Algiers:20261112T201500
+DTSTAMP:20261023T163456Z
+UID:elecf-2026-11-12-course-and-formulas@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,ELECF
+DESCRIPTION:Module: ELECF\nObjectif: Understand definitions and formulas.
+ \nTâches suggérées: Review one section\, derive the key formulas\, and 
+ do two applications.\nCritère de fin: A short formula sheet plus two chec
+ ked applications.\n\nCette séance a été placée dans un intervalle libr
+ e du calendrier ESI\; les événements universitaires ne sont pas copiés 
+ dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algèbre — Exercices
+DTSTART;TZID=Africa/Algiers:20261113T083000
+DTEND;TZID=Africa/Algiers:20261113T094500
+DTSTAMP:20261023T163456Z
+UID:algebre-2026-11-13-exercises@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,Algèbre
+DESCRIPTION:Module: Algèbre\nObjectif: Practise problem-solving.\nTâches
+  suggérées: Solve representative exercises and correct mistakes\; keep t
+ heory review short.\nCritère de fin: Three exercises corrected and one re
+ curring mistake noted.\n\nCette séance a été placée dans un intervalle
+  libre du calendrier ESI\; les événements universitaires ne sont pas cop
+ iés dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRST — Exercices
+DTSTART;TZID=Africa/Algiers:20261114T163000
+DTEND;TZID=Africa/Algiers:20261114T174500
+DTSTAMP:20261023T163456Z
+UID:prst-2026-11-14-exercises@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,PRST
+DESCRIPTION:Module: PRST\nObjectif: Maintain the probability/statistics ro
+ tation.\nTâches suggérées: Work a representative exercise set and recor
+ d formulas that were actually needed.\nCritère de fin: Two exercises solv
+ ed and a compact list of uncertainties.\n\nCette séance a été placée d
+ ans un intervalle libre du calendrier ESI\; les événements universitaire
+ s ne sont pas copiés dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Analyse — Rappel espacé
+DTSTART;TZID=Africa/Algiers:20261115T151000
+DTEND;TZID=Africa/Algiers:20261115T161000
+DTSTAMP:20261023T163456Z
+UID:analyse-2026-11-15-spaced-recall@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,Analyse
+DESCRIPTION:Module: Analyse\nObjectif: Keep familiar material active.\nTâ
+ ches suggérées: Recall key methods from memory\, then complete one repre
+ sentative exercise.\nCritère de fin: One exercise corrected and the recal
+ l score recorded.\n\nCette séance a été placée dans un intervalle libr
+ e du calendrier ESI\; les événements universitaires ne sont pas copiés 
+ dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SFSD — Rappel espacé
+DTSTART;TZID=Africa/Algiers:20261116T151000
+DTEND;TZID=Africa/Algiers:20261116T161000
+DTSTAMP:20261023T163456Z
+UID:sfsd-2026-11-16-spaced-recall@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,SFSD
+DESCRIPTION:Module: SFSD\nObjectif: Keep familiar material active.\nTâche
+ s suggérées: Recall the main data-structure/file concepts and solve one 
+ representative exercise.\nCritère de fin: One exercise corrected and one 
+ misconception logged.\n\nCette séance a été placée dans un intervalle 
+ libre du calendrier ESI\; les événements universitaires ne sont pas copi
+ és dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Archi — Exercice représentatif
+DTSTART;TZID=Africa/Algiers:20261117T140000
+DTEND;TZID=Africa/Algiers:20261117T150000
+DTSTAMP:20261023T163456Z
+UID:archi-2026-11-17-representative-exercise@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,Archi
+DESCRIPTION:Module: Archi\nObjectif: Maintain core architecture fluency.\n
+ Tâches suggérées: Review the method from memory\, then solve one repres
+ entative exercise.\nCritère de fin: One complete exercise corrected.\n\nC
+ ette séance a été placée dans un intervalle libre du calendrier ESI\; 
+ les événements universitaires ne sont pas copiés dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELECF — Révision du cours
+DTSTART;TZID=Africa/Algiers:20261118T083000
+DTEND;TZID=Africa/Algiers:20261118T094500
+DTSTAMP:20261023T163456Z
+UID:elecf-2026-11-18-course-and-formulas@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,ELECF
+DESCRIPTION:Module: ELECF\nObjectif: Understand definitions and formulas.
+ \nTâches suggérées: Review one section\, derive the key formulas\, and 
+ do two applications.\nCritère de fin: A short formula sheet plus two chec
+ ked applications.\n\nCette séance a été placée dans un intervalle libr
+ e du calendrier ESI\; les événements universitaires ne sont pas copiés 
+ dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algèbre — Exercices
+DTSTART;TZID=Africa/Algiers:20261119T190000
+DTEND;TZID=Africa/Algiers:20261119T201500
+DTSTAMP:20261023T163456Z
+UID:algebre-2026-11-19-exercises@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,Algèbre
+DESCRIPTION:Module: Algèbre\nObjectif: Practise problem-solving.\nTâches
+  suggérées: Solve representative exercises and correct mistakes\; keep t
+ heory review short.\nCritère de fin: Three exercises corrected and one re
+ curring mistake noted.\n\nCette séance a été placée dans un intervalle
+  libre du calendrier ESI\; les événements universitaires ne sont pas cop
+ iés dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRST — Exercices
+DTSTART;TZID=Africa/Algiers:20261120T083000
+DTEND;TZID=Africa/Algiers:20261120T094500
+DTSTAMP:20261023T163456Z
+UID:prst-2026-11-20-exercises@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,PRST
+DESCRIPTION:Module: PRST\nObjectif: Maintain the probability/statistics ro
+ tation.\nTâches suggérées: Work a representative exercise set and recor
+ d formulas that were actually needed.\nCritère de fin: Two exercises solv
+ ed and a compact list of uncertainties.\n\nCette séance a été placée d
+ ans un intervalle libre du calendrier ESI\; les événements universitaire
+ s ne sont pas copiés dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Analyse — Rappel espacé
+DTSTART;TZID=Africa/Algiers:20261121T163000
+DTEND;TZID=Africa/Algiers:20261121T173000
+DTSTAMP:20261023T163456Z
+UID:analyse-2026-11-21-spaced-recall@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,Analyse
+DESCRIPTION:Module: Analyse\nObjectif: Keep familiar material active.\nTâ
+ ches suggérées: Recall key methods from memory\, then complete one repre
+ sentative exercise.\nCritère de fin: One exercise corrected and the recal
+ l score recorded.\n\nCette séance a été placée dans un intervalle libr
+ e du calendrier ESI\; les événements universitaires ne sont pas copiés 
+ dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SFSD — Rappel espacé
+DTSTART;TZID=Africa/Algiers:20261122T151000
+DTEND;TZID=Africa/Algiers:20261122T161000
+DTSTAMP:20261023T163456Z
+UID:sfsd-2026-11-22-spaced-recall@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,SFSD
+DESCRIPTION:Module: SFSD\nObjectif: Keep familiar material active.\nTâche
+ s suggérées: Recall the main data-structure/file concepts and solve one 
+ representative exercise.\nCritère de fin: One exercise corrected and one 
+ misconception logged.\n\nCette séance a été placée dans un intervalle 
+ libre du calendrier ESI\; les événements universitaires ne sont pas copi
+ és dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Archi — Exercice représentatif
+DTSTART;TZID=Africa/Algiers:20261123T151000
+DTEND;TZID=Africa/Algiers:20261123T161000
+DTSTAMP:20261023T163456Z
+UID:archi-2026-11-23-representative-exercise@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,Archi
+DESCRIPTION:Module: Archi\nObjectif: Maintain core architecture fluency.\n
+ Tâches suggérées: Review the method from memory\, then solve one repres
+ entative exercise.\nCritère de fin: One complete exercise corrected.\n\nC
+ ette séance a été placée dans un intervalle libre du calendrier ESI\; 
+ les événements universitaires ne sont pas copiés dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELECF — Révision du cours
+DTSTART;TZID=Africa/Algiers:20261124T140000
+DTEND;TZID=Africa/Algiers:20261124T151500
+DTSTAMP:20261023T163456Z
+UID:elecf-2026-11-24-course-and-formulas@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,ELECF
+DESCRIPTION:Module: ELECF\nObjectif: Understand definitions and formulas.
+ \nTâches suggérées: Review one section\, derive the key formulas\, and 
+ do two applications.\nCritère de fin: A short formula sheet plus two chec
+ ked applications.\n\nCette séance a été placée dans un intervalle libr
+ e du calendrier ESI\; les événements universitaires ne sont pas copiés 
+ dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algèbre — Exercices
+DTSTART;TZID=Africa/Algiers:20261125T083000
+DTEND;TZID=Africa/Algiers:20261125T094500
+DTSTAMP:20261023T163456Z
+UID:algebre-2026-11-25-exercises@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,Algèbre
+DESCRIPTION:Module: Algèbre\nObjectif: Practise problem-solving.\nTâches
+  suggérées: Solve representative exercises and correct mistakes\; keep t
+ heory review short.\nCritère de fin: Three exercises corrected and one re
+ curring mistake noted.\n\nCette séance a été placée dans un intervalle
+  libre du calendrier ESI\; les événements universitaires ne sont pas cop
+ iés dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRST — Exercices
+DTSTART;TZID=Africa/Algiers:20261126T190000
+DTEND;TZID=Africa/Algiers:20261126T201500
+DTSTAMP:20261023T163456Z
+UID:prst-2026-11-26-exercises@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,PRST
+DESCRIPTION:Module: PRST\nObjectif: Maintain the probability/statistics ro
+ tation.\nTâches suggérées: Work a representative exercise set and recor
+ d formulas that were actually needed.\nCritère de fin: Two exercises solv
+ ed and a compact list of uncertainties.\n\nCette séance a été placée d
+ ans un intervalle libre du calendrier ESI\; les événements universitaire
+ s ne sont pas copiés dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Analyse — Rappel espacé
+DTSTART;TZID=Africa/Algiers:20261127T083000
+DTEND;TZID=Africa/Algiers:20261127T093000
+DTSTAMP:20261023T163456Z
+UID:analyse-2026-11-27-spaced-recall@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,Analyse
+DESCRIPTION:Module: Analyse\nObjectif: Keep familiar material active.\nTâ
+ ches suggérées: Recall key methods from memory\, then complete one repre
+ sentative exercise.\nCritère de fin: One exercise corrected and the recal
+ l score recorded.\n\nCette séance a été placée dans un intervalle libr
+ e du calendrier ESI\; les événements universitaires ne sont pas copiés 
+ dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SFSD — Rappel espacé
+DTSTART;TZID=Africa/Algiers:20261128T163000
+DTEND;TZID=Africa/Algiers:20261128T173000
+DTSTAMP:20261023T163456Z
+UID:sfsd-2026-11-28-spaced-recall@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,SFSD
+DESCRIPTION:Module: SFSD\nObjectif: Keep familiar material active.\nTâche
+ s suggérées: Recall the main data-structure/file concepts and solve one 
+ representative exercise.\nCritère de fin: One exercise corrected and one 
+ misconception logged.\n\nCette séance a été placée dans un intervalle 
+ libre du calendrier ESI\; les événements universitaires ne sont pas copi
+ és dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Archi — Exercice représentatif
+DTSTART;TZID=Africa/Algiers:20261129T151000
+DTEND;TZID=Africa/Algiers:20261129T161000
+DTSTAMP:20261023T163456Z
+UID:archi-2026-11-29-representative-exercise@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,Archi
+DESCRIPTION:Module: Archi\nObjectif: Maintain core architecture fluency.\n
+ Tâches suggérées: Review the method from memory\, then solve one repres
+ entative exercise.\nCritère de fin: One complete exercise corrected.\n\nC
+ ette séance a été placée dans un intervalle libre du calendrier ESI\; 
+ les événements universitaires ne sont pas copiés dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELECF — Révision du cours
+DTSTART;TZID=Africa/Algiers:20261130T151000
+DTEND;TZID=Africa/Algiers:20261130T162500
+DTSTAMP:20261023T163456Z
+UID:elecf-2026-11-30-course-and-formulas@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,ELECF
+DESCRIPTION:Module: ELECF\nObjectif: Understand definitions and formulas.
+ \nTâches suggérées: Review one section\, derive the key formulas\, and 
+ do two applications.\nCritère de fin: A short formula sheet plus two chec
+ ked applications.\n\nCette séance a été placée dans un intervalle libr
+ e du calendrier ESI\; les événements universitaires ne sont pas copiés 
+ dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algèbre — Exercices
+DTSTART;TZID=Africa/Algiers:20261201T140000
+DTEND;TZID=Africa/Algiers:20261201T151500
+DTSTAMP:20261023T163456Z
+UID:algebre-2026-12-01-exercises@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,Algèbre
+DESCRIPTION:Module: Algèbre\nObjectif: Practise problem-solving.\nTâches
+  suggérées: Solve representative exercises and correct mistakes\; keep t
+ heory review short.\nCritère de fin: Three exercises corrected and one re
+ curring mistake noted.\n\nCette séance a été placée dans un intervalle
+  libre du calendrier ESI\; les événements universitaires ne sont pas cop
+ iés dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRST — Exercices
+DTSTART;TZID=Africa/Algiers:20261202T083000
+DTEND;TZID=Africa/Algiers:20261202T094500
+DTSTAMP:20261023T163456Z
+UID:prst-2026-12-02-exercises@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,PRST
+DESCRIPTION:Module: PRST\nObjectif: Maintain the probability/statistics ro
+ tation.\nTâches suggérées: Work a representative exercise set and recor
+ d formulas that were actually needed.\nCritère de fin: Two exercises solv
+ ed and a compact list of uncertainties.\n\nCette séance a été placée d
+ ans un intervalle libre du calendrier ESI\; les événements universitaire
+ s ne sont pas copiés dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Analyse — Rappel espacé
+DTSTART;TZID=Africa/Algiers:20261203T190000
+DTEND;TZID=Africa/Algiers:20261203T200000
+DTSTAMP:20261023T163456Z
+UID:analyse-2026-12-03-spaced-recall@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,Analyse
+DESCRIPTION:Module: Analyse\nObjectif: Keep familiar material active.\nTâ
+ ches suggérées: Recall key methods from memory\, then complete one repre
+ sentative exercise.\nCritère de fin: One exercise corrected and the recal
+ l score recorded.\n\nCette séance a été placée dans un intervalle libr
+ e du calendrier ESI\; les événements universitaires ne sont pas copiés 
+ dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SFSD — Rappel espacé
+DTSTART;TZID=Africa/Algiers:20261204T083000
+DTEND;TZID=Africa/Algiers:20261204T093000
+DTSTAMP:20261023T163456Z
+UID:sfsd-2026-12-04-spaced-recall@esi-revision-calendar
+SEQUENCE:0
+CATEGORIES:Révision,SFSD
+DESCRIPTION:Module: SFSD\nObjectif: Keep familiar material active.\nTâche
+ s suggérées: Recall the main data-structure/file concepts and solve one 
+ representative exercise.\nCritère de fin: One exercise corrected and one 
+ misconception logged.\n\nCette séance a été placée dans un intervalle 
+ libre du calendrier ESI\; les événements universitaires ne sont pas copi
+ és dans ce calendrier.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
