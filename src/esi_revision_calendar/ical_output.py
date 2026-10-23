@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from datetime import datetime, timedelta
+from datetime import datetime
 from pathlib import Path
 from typing import Iterable
 from zoneinfo import ZoneInfo
@@ -25,7 +25,6 @@ def build_calendar(events: Iterable[RevisionEvent], generated_at: datetime | Non
     calendar.add("X-WR-CALNAME", "ESI — Révisions 2CP Groupe 3")
     calendar.add("X-WR-TIMEZONE", "Africa/Algiers")
     calendar.add("X-PUBLISHED-TTL", "PT6H")
-    calendar.add("REFRESH-INTERVAL", timedelta(hours=6))
 
     for revision in events:
         event = Event()
